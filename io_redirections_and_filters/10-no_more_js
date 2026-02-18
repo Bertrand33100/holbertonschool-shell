@@ -1,2 +1,3 @@
 #!/bin/bash
-grep -v "javascript" list > list.tmp && mv list.tmp list
+grep -v "javascript" list > list.tmp
+mv list.tmp list
