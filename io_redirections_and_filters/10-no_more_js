@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i '/javascript/d' list
+grep -v "javascript" list > list.tmp && mv list.tmp list
