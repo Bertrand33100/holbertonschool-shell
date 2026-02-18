@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n '3p' /etc/passwd
+head -n 3 /etc/passwd | tail -n 1
