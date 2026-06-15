@@ -1,1 +1,2 @@
-Repository for Holberton Shell projects
+#!/bin/bash
+
