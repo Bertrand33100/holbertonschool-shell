@@ -1,0 +1,1 @@
+#!/bin/bash echo pwd chmod u+x 0-iam_betty
