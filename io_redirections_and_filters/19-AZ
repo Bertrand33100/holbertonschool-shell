@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "^[a-zA-Z].*[a-zA-Z]$" /etc/passwd
+tr 'Ac' 'Ze'
